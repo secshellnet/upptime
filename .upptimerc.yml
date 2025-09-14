@@ -4,7 +4,7 @@ repo: upptime
 sites:
   - name: Website
     url: https://secshell.de
-    logoUrl: https://avatars.githubusercontent.com/u/83829311?s=200&v=4
+    icon: https://secshell.de/static/img/favicon.ico
   - name: Authentik
     url: https://auth.secshell.de
     icon: https://auth.secshell.de/static/dist/assets/icons/icon.png
