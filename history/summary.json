@@ -40,7 +40,7 @@
     "url": "https://mail.secshell.de",
     "icon": "https://icons.duckduckgo.com/ip3/mail.secshell.de.ico",
     "slug": "mailserver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 758,
     "timeMonth": 764,
     "timeYear": 764,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-30": 0
+    }
   }
 ]
