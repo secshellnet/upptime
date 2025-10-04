@@ -22,18 +22,20 @@
     "url": "https://auth.secshell.de",
     "icon": "https://auth.secshell.de/static/dist/assets/icons/icon.png",
     "slug": "authentik",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1046,
-    "timeDay": 1106,
-    "timeWeek": 1035,
-    "timeMonth": 1046,
-    "timeYear": 1046,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1042,
+    "timeDay": 1018,
+    "timeWeek": 1022,
+    "timeMonth": 1042,
+    "timeYear": 1042,
+    "dailyMinutesDown": {
+      "2025-10-04": 38
+    }
   },
   {
     "name": "Mailserver",
