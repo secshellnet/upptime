@@ -1,7 +1,7 @@
 url: https://auth.secshell.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-04T23:31:14.856Z
+status: up
+code: 200
+responseTime: 1121
+lastUpdated: 2025-10-04T23:44:21.708Z
 startTime: 2025-09-14T09:05:47.748Z
 generator: Upptime <https://github.com/upptime/upptime>
