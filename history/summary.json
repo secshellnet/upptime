@@ -22,7 +22,7 @@
     "url": "https://auth.secshell.de",
     "icon": "https://auth.secshell.de/static/dist/assets/icons/icon.png",
     "slug": "authentik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "93.40%",
     "uptimeWeek": "99.06%",
