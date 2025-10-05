@@ -22,9 +22,9 @@
     "url": "https://auth.secshell.de",
     "icon": "https://auth.secshell.de/static/dist/assets/icons/icon.png",
     "slug": "authentik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "96.45%",
+    "uptimeDay": "96.44%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
@@ -34,6 +34,7 @@
     "timeMonth": 1052,
     "timeYear": 1052,
     "dailyMinutesDown": {
+      "2025-10-05": 0,
       "2025-10-04": 51
     }
   },
