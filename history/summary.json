@@ -4,19 +4,19 @@
     "url": "https://secshell.de",
     "icon": "https://secshell.de/static/img/favicon.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.96%",
     "time": 542,
-    "timeDay": 619,
-    "timeWeek": 601,
-    "timeMonth": 577,
+    "timeDay": 583,
+    "timeWeek": 590,
+    "timeMonth": 575,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2026-01-25": 43
+      "2026-01-25": 80
     }
   },
   {
