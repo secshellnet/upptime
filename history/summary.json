@@ -4,10 +4,10 @@
     "url": "https://secshell.de",
     "icon": "https://secshell.de/static/img/favicon.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "48.69%",
-    "uptimeWeek": "90.71%",
+    "uptimeDay": "50.99%",
+    "uptimeWeek": "90.70%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "99.52%",
     "time": 540,
@@ -16,6 +16,7 @@
     "timeMonth": 558,
     "timeYear": 540,
     "dailyMinutesDown": {
+      "2026-01-27": 0,
       "2026-01-26": 810,
       "2026-01-25": 127
     }
